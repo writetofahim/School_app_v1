@@ -3,12 +3,12 @@ import heroImg2 from "../../../assets/images/school/school_2.jpeg";
 import HeroSlide from "./HeroSlide";
 const heroData = [
   {
-    title: "আকানগর এস ই এস ডিপি মডেল উচ্চ বিদ্যালয়",
+    title: "Salimganj A. R. M. High School",
     description: "Since 2012",
     image: heroImg,
   },
   {
-    title: "আকানগর এস ই এস ডিপি মডেল উচ্চ বিদ্যালয়",
+    title: "Salimganj A. R. M. High School",
     description: "Students Growing, Learning Together Strong",
     image: heroImg2,
   },
