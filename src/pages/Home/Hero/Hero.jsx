@@ -1,5 +1,5 @@
-import heroImg from "../../../assets/images/school/school_1.jpg";
-import heroImg2 from "../../../assets/images/school/school_2.jpeg";
+import heroImg from "../../../assets/images/school/school_1.jpeg";
+import heroImg2 from "../../../assets/images/school/school_2.jpg";
 import HeroSlide from "./HeroSlide";
 const heroData = [
   {

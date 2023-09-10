@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import school_1 from "../assets/images/school/school_1.jpg";
+import school_1 from "../assets/images/school/school_1.jpeg";
 
 const PageTopBanner = ({ title }) => {
   return (

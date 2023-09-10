@@ -75,7 +75,7 @@ const Navbar = () => {
           <div className="pl-5 flex items-center text-lg justify-between w-full">
             <div className="">
               <a className="" href="/">
-                আকানগর এস ই এস ডিপি মডেল উচ্চ বিদ্যালয়
+                Salimganj A. R. M. High School
               </a>
             </div>
             <div

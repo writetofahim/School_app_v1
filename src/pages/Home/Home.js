@@ -203,7 +203,7 @@ const Home = () => {
                   Notice <span className="text-orange-300">Board</span>
                 </h1>
                 <div className="space-y-2">
-                  {notices.map((notice, index) => (
+                  {notices?.map((notice, index) => (
                     <a
                       key={index}
                       // onClick={() => handleNotice(notice)}
